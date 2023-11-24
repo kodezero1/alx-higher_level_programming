@@ -1,6 +1,6 @@
 # High-Level Python Programming Challenges - Holberton School
 
-![Holberton School Logo](holberton_logo.png)
+![Holberton School Logo](https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg)
 
 Welcome to the High-Level Python Programming Challenges repository from Holberton School! This repository is dedicated to providing a curated collection of high-level Python programming challenges and exercises.
 
