@@ -50,4 +50,4 @@ To start using these challenges, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/holbertonschool/high-level-python-challenges.git
+   git clone https://github.com/kodezero1/alx-higher_level_programming.git
